@@ -38,6 +38,7 @@ int rawdata_to_little_endian(uint8_t *origindata,
             }
         }
     } while (0);
+	printf("chen修改的代码部分");
 
     return 0;
 }
